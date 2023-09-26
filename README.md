@@ -15,7 +15,7 @@ Hello there! I'm Martin Karanja, an experienced Lineman with 7 years in the fiel
 4. **Certificate in ITIL**
 5. **Certificate in OLCM**
 
-6. **Ongoing Certificate in Software Engineering at ALX
+6. **Ongoing Certificate in Software Engineering at ALX**
 
 ## Passion for Software Engineering
 My journey in the world of electrical engineering has inspired a passion for software engineering. I see it as a tool to shadow and complement my existing expertise, enabling me to enhance productivity, efficiency, and safety within the electrical engineering domain. I firmly believe that integrating software engineering into my skill set will open up new dimensions and allow me to contribute more effectively to my field.
