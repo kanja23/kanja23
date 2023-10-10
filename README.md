@@ -20,33 +20,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant)
 
-const username = "kanja23";
-const apiUrl = `https://api.github.com/users/${kanja23}`;
-
-// Fetch GitHub API data
-fetch(apiUrl)
-  .then(response => response.json())
-  .then(data => {
-    const {
-      login,
-      public_repos,
-      followers,
-      following,
-      public_gists,
-      created_at,
-      updated_at
-    } = data;
-
-    // Display GitHub stats in Markdown format
-    console.log(`## GitHub Stats for ${login}
-    - Public Repositories: ${public_repos}
-    - Followers: ${followers}
-    - Following: ${following}
-    - Public Gists: ${public_gists}
-    - Account Created: ${created_at}
-    - Last Updated: ${updated_at}`);
-  })
-  .catch(error => console.error("Error fetching GitHub data", error));
 
 ## Introduction
 Hello there! I'm Martin Karanja, an experienced Lineman with 7 years in the field of electrical engineering. I've also delved into the realms of technology and project management, honing a diverse skill set to complement my primary expertise.
