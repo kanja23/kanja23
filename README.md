@@ -45,9 +45,4 @@ My journey in the world of electrical engineering has inspired a passion for sof
 - Leverage technology and programming to optimize processes in the electrical engineering sector.
 - Collaborate with professionals to bridge the gap between traditional electrical engineering and modern technological advancements.
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/martin-karanja004)
-- [Email](mailto:martinkaranja92@gmail.com)
-- [GitHub](https://github.com/kanja23)
-
 Feel free to reach out if you share similar interests or would like to collaborate on projects that intersect our domains of expertise!
