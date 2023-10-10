@@ -2,6 +2,46 @@
 
 # Connect with Me
 
+# Connect with Me
+
+<div class="connect-icons">
+  <div class="icon">
+    <a href="https://www.linkedin.com/in/martin-karanja004">
+      <img src="https://path_to_linkedin_icon" alt="LinkedIn">
+    </a>
+  </div>
+
+  <div class="icon">
+    <a href="https://twitter.com/MartinsXX">
+      <img src="https://path_to_twitter_icon" alt="Twitter">
+    </a>
+  </div>
+
+  <div class="icon">
+    <a href="mailto:martinkaranja92@gmail.com">
+      <img src="https://path_to_gmail_icon" alt="Gmail">
+    </a>
+  </div>
+</div>
+
+# Languages and Tools
+
+<div class="tool-icons">
+  <!-- Add icons for languages and tools here -->
+  <div class="icon">C</div>
+  <div class="icon">Python</div>
+  <div class="icon">Node.js</div>
+  <div class="icon">HTML5</div>
+  <div class="icon">CSS3</div>
+  <div class="icon">JavaScript</div>
+  <div class="icon">MySQL</div>
+  <div class="icon">Git</div>
+  <div class="icon">Bash</div>
+  <div class="icon">Vagrant</div>
+</div>
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-karanja004)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MartinsXX)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:martinkaranja92@gmail.com)
