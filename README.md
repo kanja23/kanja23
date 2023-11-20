@@ -25,9 +25,12 @@
 Hello there! I'm Martin Karanja, an experienced Lineman with 7 years in the field of electrical engineering. I've also delved into the realms of technology and project management, honing a diverse skill set to complement my primary expertise.
 
 ## Professional Experience
-- **Title**: Lineman
+- **Title**: Lineman// RR Technician
 - **Experience**: 7 years
 - **Field**: Electrical Engineering
+
+- **Title**: CustomerService Supervisor
+- **Experience**: 3 years
 
 ## Education
 1. **Certificate in Ethical Hacking**
