@@ -39,7 +39,7 @@ Hello there! I'm Martin Karanja, an experienced Lineman with 7 years in the fiel
 2. **Bachelor in Project Management**
 3. **Certification in Lean Six Sigma**
 4. **Certificate in ITIL**
-5. **Certificate in OLCM**
+5. **Certificate in Overhead and Underground Line construction and Maintenance (OLCM)**
 
 6. **Ongoing Certificate in Software Engineering at ALX**
 
