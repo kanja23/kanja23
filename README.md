@@ -1,4 +1,4 @@
-# Martin Karanja
+# Martin Karanja ![image](https://github.com/kanja23/kanja23/assets/95163330/5a282eec-f95f-4d9c-a6f1-5cd21f368bbc)
 
 # Connect with Me
 
