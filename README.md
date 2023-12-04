@@ -50,5 +50,3 @@ My journey in the world of electrical engineering has inspired a passion for sof
 - Combine my electrical engineering background with software engineering skills to create innovative solutions.
 - Leverage technology and programming to optimize processes in the electrical engineering sector.
 - Collaborate with professionals to bridge the gap between traditional electrical engineering and modern technological advancements.
-
-Feel free to reach out if you share similar interests or would like to collaborate on projects that intersect our domains of expertise!
