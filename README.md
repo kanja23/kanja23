@@ -1,4 +1,5 @@
-# Martin Karanja https://raw.githubusercontent.com/kanja23/kanja23/main/wave.gif
+# Martin Karanja
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kanja23/kanja23/main/wave.gif" width="30px">,
 
 # Connect with Me
 
