@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin Karanja;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+LORDWILL;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin Karanja;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 <h1 align="left">
 <img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Corbin%20Studio.gif" width= "185px">
