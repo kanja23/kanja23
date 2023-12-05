@@ -1,4 +1,4 @@
-https://pin.it/5BpgTVs
+<h1 align="center">Hi <img src= "https://pin.it/5BpgTVs" width="30px">,
 
 # Martin Karanja
 
