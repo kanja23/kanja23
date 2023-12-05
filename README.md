@@ -1,5 +1,5 @@
-<h1 align="left">Hola 
-<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Angular%20Geometry.gif" width="150px">
+<h1 align="left">
+<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Angular%20Geometry.gif" width="200px">
 
 # Martin Karanja
 
