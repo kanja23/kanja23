@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src= "https://pin.it/5BpgTVs" width="30px">,
+<h1 align="center"> "https://pin.it/5BpgTVs" width="30px">,
 
 # Martin Karanja
 
