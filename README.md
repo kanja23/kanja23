@@ -34,7 +34,7 @@ I'm Martin Karanja, an experienced Lineman with 7 years in the field of electric
 
 
 
-- **Title**: CustomerService Supervisor
+## Title: CustomerService Supervisor
 - **Experience**: 3 years
 
 ## Education
