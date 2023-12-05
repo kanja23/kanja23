@@ -1,5 +1,8 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin Karanja;I+Am+Passionate+About+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
+<h1 align="left">
+<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Corbin%20Studio.gif" width= "185px">
+
 # Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/martin-karanja004)
