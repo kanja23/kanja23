@@ -1,5 +1,5 @@
 # Martin Karanja <h1 align="left">
-<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Corbin%20Studio.gif" length ="100px">
+<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Corbin%20Studio.gif" length ="60px">
 
 # Connect with Me
 
