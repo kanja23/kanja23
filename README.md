@@ -1,4 +1,4 @@
-<h1 align="center">Hola<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Angular%20Geometry.gif" width="100px">,
+<h1 align="left">Hola<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Angular%20Geometry.gif" width="250px">,
 
 # Martin Karanja
 
