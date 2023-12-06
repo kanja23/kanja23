@@ -48,3 +48,7 @@ My journey in the world of electrical engineering has inspired a passion for sof
 - Combine my electrical engineering background with software engineering skills to create innovative solutions.
 - Leverage technology and programming to optimize processes in the electrical engineering sector.
 - Collaborate with professionals to bridge the gap between traditional electrical engineering and modern technological advancements.
+
+
+  <h1 align="left">
+<img src="https://raw.githubusercontent.com/kanja23/kanja23/main/Corbin%20Studio.gif" width= "185px">
