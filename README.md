@@ -22,7 +22,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kanja23/kanja23/main/wave.gif" width="30px">,
   
-I'm Martin Karanja, an experienced Lineman with 7 years in the field of electrical engineering. I've also delved into the realms of technology and project management, honing a diverse skill set to complement my primary expertise.
+I'm an experienced Lineman with 7 years in the field of electrical engineering. I've also delved into the realms of technology and project management, honing a diverse skill set to complement my primary expertise.
 
 ## Professional Experience
 # Title: Lineman// RR Technician
