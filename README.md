@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:martinkaranja92@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/kanja23)
 
-# Languages and Tools
+# Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
