@@ -21,7 +21,7 @@
 [gcw]: https://github.com/kanja23/gitmoji-commit-workflow
 
 
-*I've also delved into the realms of technology and project management, honing a diverse skill set to complement my primary expertise.*
+*I've also delved into the realms of electrical engineering and project management, honing a diverse skill set to complement my primary expertise.*
 
 ## Professional Experience
 *Title: Lineman// RR Technician*
