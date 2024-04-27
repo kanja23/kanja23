@@ -38,7 +38,7 @@
 4. **Certificate in ITIL**
 5. **Certificate in Overhead and Underground Line construction and Maintenance (OLCM)**
 
-6. **Certificate in Software Engineering (Full-Stack)**
+6. **Certificate in Software Engineering (Back-end)**
 
 ## Passion for Software Engineering
 My journey in the world of electrical engineering has inspired a passion for software engineering. I see it as a tool to shadow and complement my existing expertise, enabling me to enhance productivity, efficiency, and safety within the electrical engineering domain. I firmly believe that integrating software engineering into my skill set will open up new dimensions and allow me to contribute more effectively to my field.
