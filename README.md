@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+MartinKaranja;I+Am+Passionate+About+Innovation;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin+Karanja;I+Am+Passionate+About+Innovation;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 ### ✍️ Languages
 
