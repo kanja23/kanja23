@@ -1,3 +1,6 @@
+<img width="2172" height="724" alt="a489bccb-0eca-47c9-bc1d-61dac01c8e41" src="https://github.com/user-attachments/assets/5694ae54-7e68-41ff-bae5-72c9944c73b6" />
+
+
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin+Karanja;I+Am+Passionate+About+Innovation;I+Learn+By+Doing)](https://git.io/typing-svg)
 
 ### ✍️ Languages
