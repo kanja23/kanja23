@@ -1,27 +1,44 @@
-<img width="2172" height="724" alt="a489bccb-0eca-47c9-bc1d-61dac01c8e41" src="https://github.com/user-attachments/assets/5694ae54-7e68-41ff-bae5-72c9944c73b6" />
+<img width="2172" height="724" alt="Martin Karanja banner" src="https://github.com/user-attachments/assets/5694ae54-7e68-41ff-bae5-72c9944c73b6" />
 
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi+I+am+Martin+Karanja;I+build+systems+that+cut+costs;I+automate+field+operations;Utilities+and+SMEs+in+Kenya&pause=1200)](https://martindev.co.ke)
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Martin+Karanja;I+Am+Passionate+About+Innovation;I+Learn+By+Doing)](https://git.io/typing-svg)
+### 👋 About
 
-### ✍️ Languages
+I'm a developer in Kenya. I build operational software for utilities, field teams and small businesses: tools that replace paper, spreadsheets and phone calls with something people can trust and audit.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76)
+My background is in energy infrastructure, so I design for people working in the field, on a phone, often with poor signal, not for people sitting at a desk.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanja23&layout=compact&hide=javascript,css,html,jupyter%20notebook)
+### 🔧 What I build
 
-### 🛠 Tech Stack and Tools
+- **Field service platforms:** GPS capture, clock in/out, service records, journey plans, work assignment.
+- **Reporting:** dashboards and one-click Excel exports that managers and auditors can use as they are.
+- **Access control and audit trails:** role-based access, protected customer details, and logs of who did what.
+- **Business websites and web apps** for SMEs and NGOs.
 
-| End                                                                  | Stack                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frontend](https://img.shields.io/badge/-Frontend-black?style=flat) | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design) ![Less](https://img.shields.io/badge/-Less-1d365d?style=flat&logo=less) ![umi](https://img.shields.io/badge/-umi-4569d4?style=flat&logo=umi) |
-| ![Backend](https://img.shields.io/badge/-Backend-black?style=flat)   | ![Node](https://img.shields.io/badge/-Node-white?style=flat&logo=node.js) ![Egg](https://img.shields.io/badge/-Egg.js-22ab28?style=flat) ![mongoDB](https://img.shields.io/badge/-mongoDB-white?style=flat&logo=mongodb)                                                                                                                                                                   |
-| ![Devops](https://img.shields.io/badge/-Devops-black?style=flat)     | ![GitHub Action][gitHub-action]  ![Nginx](https://img.shields.io/badge/-Nginx-CEF1D1?style=flat&logo=nginx)  ![Docker](https://img.shields.io/badge/-Docker-cbe3f2?style=flat&logo=docker)                                                                                                                                                                    |
-| ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)           | ![WebStorm](https://img.shields.io/badge/-WebStorm-3a3a3a?style=flat&logo=webstorm) ![PyCharm](https://img.shields.io/badge/-PyCharm-3a3a3a?style=flat&logo=pycharm) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=Visual-Studio-Code)                                                 |
-| ![Workflow](https://img.shields.io/badge/-Ohter-black?style=flat)           | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)     [![Gitmoji][gitmoji]][gcw]                                                                                           |
+### 🛠 Stack
 
-[gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
-[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
-[gcw]: https://github.com/kanja23/gitmoji-commit-workflow
+| Area | Tools |
+| ---- | ----- |
+| Frontend | ![React](https://img.shields.io/badge/-React-52BAD7?style=flat&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) |
+| Backend and data | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) |
+| Hosting and workflow | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) |
 
+### 📦 Selected work
 
-*I've also delved into the realms of electrical engineering and project management, honing a diverse skill set to complement my primary expertise.*
+Most of my client work is in private repositories, so this is a description rather than code.
+
+- **DileX Service Management:** field service platform with GPS capture, clock in/out, service records, journey plans, role-based access and Excel reporting.
+- **Field operations platform for a utility:** dashboards, work assignment, GPS tracking and reporting.
+- **UTAN:** public website plus role-based dashboards for an NGO federation in Western Kenya, covering membership, elections, project reporting and finance.
+
+More on [martindev.co.ke](https://martindev.co.ke).
+
+### 🧭 How I work
+
+- Changes to live data are tested with a dry run first, then applied once and checked.
+- Customer details are protected by default and every access is logged.
+- A system is ready when the people using it have tested it, not when it compiles.
+
+### 📬 Contact
+
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:martinkaranja92@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-karanja004) [![Website](https://img.shields.io/badge/-martindev.co.ke-black?style=flat&logo=googlechrome&logoColor=white)](https://martindev.co.ke)
