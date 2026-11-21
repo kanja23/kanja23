@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/kanja23/kanja23/main/wave.gif" width="60px" alt="Waving hand"> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi+I+am+Martin+Karanja;I+build+systems+that+cut+costs;I+automate+field+operations;Utilities+and+SMEs+in+Kenya&pause=1200)](https://martindev.co.ke)
 
-### 👋 About Me
+### About Me
 
 I'm a developer in Kenya. I build operational software for utilities, field teams and small businesses: tools that replace paper, spreadsheets and phone calls with something people can trust and audit.
 
