@@ -8,7 +8,7 @@ I'm a developer in Kenya. I build operational software for utilities, field team
 
 My background is in energy infrastructure, so I design for people working in the field, on a phone, often with poor signal, not for people sitting at a desk.
 
-### 🔧 What I build
+### What I build
 
 - **Field service platforms:** GPS capture, clock in/out, service records, journey plans, work assignment.
 - **Reporting:** dashboards and one-click Excel exports that managers and auditors can use as they are.
@@ -33,7 +33,7 @@ Most of my client work is in private repositories, so this is a description rath
 
 More on [martindev.co.ke](https://martindev.co.ke).
 
-### 🧭 How I work
+### How I work
 
 - Changes to live data are tested with a dry run first, then applied once and checked.
 - Customer details are protected by default and every access is logged.
