@@ -6,7 +6,7 @@
 
 I'm a developer in Kenya. I build operational software for utilities, field teams and small businesses: tools that replace paper, spreadsheets and phone calls with something people can trust and audit.
 
-My background is in energy infrastructure, so I design for people working in the field, on a phone, often with poor signal, not for people sitting at a desk.
+My background is in energy infrastructure, so I design for people working in the field, on a phone, often with poor signal.
 
 ### What I build
 
