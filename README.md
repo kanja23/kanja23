@@ -2,7 +2,7 @@
 
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi+I+am+Martin+Karanja;I+build+systems+that+cut+costs;I+automate+field+operations;Utilities+and+SMEs+in+Kenya&pause=1200)](https://martindev.co.ke)
 
-### 👋 About
+### 👋 About Me
 
 I'm a developer in Kenya. I build operational software for utilities, field teams and small businesses: tools that replace paper, spreadsheets and phone calls with something people can trust and audit.
 
@@ -15,7 +15,7 @@ My background is in energy infrastructure, so I design for people working in the
 - **Access control and audit trails:** role-based access, protected customer details, and logs of who did what.
 - **Business websites and web apps** for SMEs and NGOs.
 
-### 🛠 Stack
+### Stack
 
 | Area | Tools |
 | ---- | ----- |
@@ -23,7 +23,7 @@ My background is in energy infrastructure, so I design for people working in the
 | Backend and data | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76) |
 | Hosting and workflow | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github) |
 
-### 📦 Selected work
+### Selected work
 
 Most of my client work is in private repositories, so this is a description rather than code.
 
