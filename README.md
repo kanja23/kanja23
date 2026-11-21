@@ -1,6 +1,6 @@
 <img width="2172" height="724" alt="Martin Karanja banner" src="https://github.com/user-attachments/assets/5694ae54-7e68-41ff-bae5-72c9944c73b6" />
 
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi+I+am+Martin+Karanja;I+build+systems+that+cut+costs;I+automate+field+operations;Utilities+and+SMEs+in+Kenya&pause=1200)](https://martindev.co.ke)
+# <img src="https://raw.githubusercontent.com/kanja23/kanja23/main/wave.gif" width="60px" alt="Waving hand"> [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hi+I+am+Martin+Karanja;I+build+systems+that+cut+costs;I+automate+field+operations;Utilities+and+SMEs+in+Kenya&pause=1200)](https://martindev.co.ke)
 
 ### 👋 About Me
 
